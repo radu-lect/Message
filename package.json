@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "socket.io": "^4.6.1",
+    "sqlite": "^4.2.0",
+    "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev":"nodemon server"
+  },
+  "name": "cd",
+  "description": "Aicii fac proiectul cu mesaje",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radu-lect/Message.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radu-lect/Message/issues"
+  },
+  "homepage": "https://github.com/radu-lect/Message#readme"
+}
